@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KaicLimaIT/KaicLimaIT/output/snake.svg" alt="Snake animation" />
 
 ###
